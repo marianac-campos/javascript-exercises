@@ -1,0 +1,23 @@
+h1 {
+    color: beige;
+}
+
+body {
+    background-color: #ED1941;
+    font: normal 15px Arial;
+    text-align: center;
+}
+
+section {
+    background-color: beige;
+    box-shadow: 4px 4px 8px #212121;
+    border-radius: 12px;
+
+    padding: 24px;
+    width: 500px;
+    margin: auto;
+}
+
+footer {
+    color: white;
+}
