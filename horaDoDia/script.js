@@ -1,6 +1,6 @@
 function alterar(){
-    var msg = window.document.getElementById("msg");
-    var img = window.document.getElementById("image"); 
+    var msg = window.document.getElementById('msg');
+    var img = window.document.getElementById('image'); 
 
     var date = new Date();
     var hour = date.getHours();
@@ -19,5 +19,5 @@ function alterar(){
     } else {
         img.src = 'img/nigth.jpeg';
         document.body.style.background = '#141F26';
-    }
+    };
 };

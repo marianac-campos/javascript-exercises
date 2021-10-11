@@ -16,8 +16,8 @@ function verificar(){
         } else if (fsex[1].checked){
             genero = "Feminino";
         } else{
-            genero = "Não Binário" 
-        }
+            genero = "Não Binário";
+        };
 
         res.innerHTML = `Você se identifica como ${genero} e tem ${age} anos!`; 
     }

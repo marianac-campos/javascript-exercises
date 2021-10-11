@@ -9,7 +9,7 @@ body {
 }
 
 section {
-    background-color: beige;
+    background-color: #ffff;
     box-shadow: 6px 6px 10px rgb(70, 70, 70);
     border-radius: 12px;
 
@@ -25,5 +25,5 @@ img {
 }
 
 footer {
-    color: beige;
+    color: #ffff;
 }
